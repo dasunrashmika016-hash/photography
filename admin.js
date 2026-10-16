@@ -2,8 +2,8 @@
   SETUP: Paste your Supabase Project URL and publishable/anon key below.
   Never put a Supabase service_role/secret key in browser code.
 */
-const SUPABASE_URL = window.PHOTOGRAPHY_SUPABASE_URL || "";
-const SUPABASE_PUBLISHABLE_KEY = window.PHOTOGRAPHY_SUPABASE_KEY || "";
+const SUPABASE_URL = window.https://dhndbdcigcpcdljtvzna.supabase.co || "";
+const SUPABASE_PUBLISHABLE_KEY = window.sb_publishable_If3orw2w2aeUvokLpEmh0A_THIm7kgd || "";
 const STORAGE_BUCKET = "gallery";
 
 const $ = (id) => document.getElementById(id);
